@@ -1,2 +1,4 @@
 import  {StructError} from "./struct.error"
-export  { StructError }
+import  {ChainError} from "./chain.error"
+
+export  { StructError  ,ChainError}
