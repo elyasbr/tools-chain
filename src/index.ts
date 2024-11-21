@@ -4,6 +4,6 @@ import  {ArchError} from "./arch.error"
 import  {AssetError} from "./asset.error"
 import  {CryptoError} from "./crypto.error"
 import  {IpgError} from "./ipg.error"
+import  {BankError} from "./bank.error"
 
-
-export  { StructError  , ChainError,ArchError , AssetError , CryptoError , IpgError}
+export  { StructError  , ChainError,ArchError , AssetError , CryptoError , IpgError , BankError}
