@@ -8,4 +8,4 @@ import  {BankError} from "./bank.error"
 import  {CountryError} from "./country.error"
 
 export  { StructError  , ChainError,ArchError , AssetError , CryptoError ,
-  IpgError , BankError , CountryError}
+  IpgError , BankError , CountryError }
