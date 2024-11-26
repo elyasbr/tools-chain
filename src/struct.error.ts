@@ -6,7 +6,7 @@ export const  StructError   =  {
   "SLUG_FIELD_STRUCT_IS_REQUIRED" :{ section , info : 'SLUG_FIELD_STRUCT_IS_REQUIRED' , msg : '' , code : 1003 } ,
   "REGEX_FIELD_STRUCT_IS_REQUIRED" :{ section , info : 'REGEX_FIELD_STRUCT_IS_REQUIRED' , msg : '' , code : 1004 } ,
   "SYMBOL_FIELD_STRUCT_IS_REQUIRED" :{ section , info : 'SYMBOL_FIELD_STRUCT_IS_REQUIRED' , msg : '' , code : 1005 } ,
-  "STATUS_FIELD_STRUCT_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_STRUCT_IS_REQUIRED' , msg : '' , code : 1005 } ,
+  "STATUS_FIELD_STRUCT_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_STRUCT_IS_REQUIRED' , msg : '' , code : 1006 } ,
 
 
 
