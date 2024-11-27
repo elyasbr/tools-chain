@@ -13,6 +13,7 @@ export const  AssetError   =  {
   "DECIMAL_CALC_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'DECIMAL_CALC_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1010 } ,
   "LOGO_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'LOGO_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1011 } ,
   "STATUS_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1012 } ,
+  "PATTERN_ASSET_ID_IS_WRONG" :{ section , info : 'PATTERN_ASSET_ID_IS_WRONG' , msg : '', code : 1013 } ,
 
 
 }

@@ -5,6 +5,7 @@ export const  ArchError   =  {
   "RATE_WITHDRAW_FIELD_ARCH_IS_REQUIRED" :{ section , info : 'RATE_WITHDRAW_FIELD_ARCH_IS_REQUIRED' , msg : '' , code : 1002 } ,
   "SYMBOL_FIELD_ARCH_IS_REQUIRED" :{ section , info : 'SYMBOL_FIELD_ARCH_IS_REQUIRED' , msg : '' , code : 1003 } ,
   "STATUS_FIELD_ARCH_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_ARCH_IS_REQUIRED' , msg : '' , code : 1004 } ,
+  "PATTERN_ARCH_ID_IS_WRONG" :{ section , info : 'PATTERN_ARCH_ID_IS_WRONG' , msg : '', code : 1005 } ,
 
 
 }
