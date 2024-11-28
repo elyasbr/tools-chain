@@ -1,6 +1,6 @@
 {
   "name": "@elyasbr/tools-chain",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "description": "",
   "author": "Elyas Bardast Quchani",
   "main": "dist/index.js",

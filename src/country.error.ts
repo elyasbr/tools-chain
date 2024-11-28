@@ -7,7 +7,8 @@ export const  CountryError   =  {
   "STATUS_FIELD_COUNTRY_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_COUNTRY_IS_REQUIRED' , msg : '' , code : 1004 } ,
   "COUNTRY_BANK_NOT_FOUND" :{ section , info : 'COUNTRY_BANK_NOT_FOUND' , msg : '', code : 1005 } ,
   "COUNTRY_BANK_CRYPTO_NOT_FOUND" :{ section , info : 'COUNTRY_BANK_CRYPTO_NOT_FOUND' , msg : '', code : 1006 } ,
-  "COUNTRY_BANK_CRYPTO_IPG_NOT_FOUND" :{ section , info : 'COUNTRY_BANK_CRYPTO_IPG_NOT_FOUND' , msg : '', code : 1007 } ,
+  "PATTERN_COUNTRY_ID_IS_WRONG" :{ section , info : 'PATTERN_COUNTRY_ID_IS_WRONG' , msg : '', code : 1007 } ,
+  "STATUS_FIELD_COUNTRY_BANK_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_COUNTRY_BANK_IS_REQUIRED' , msg : '' , code : 1004 } ,
 
 
 
