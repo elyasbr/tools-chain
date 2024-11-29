@@ -11,6 +11,7 @@ export const  CountryError   =  {
   "PATTERN_COUNTRY_ID_IS_WRONG" :{ section , info : 'PATTERN_COUNTRY_ID_IS_WRONG' , msg : '', code : 1008 } ,
   "STATUS_FIELD_COUNTRY_BANK_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_COUNTRY_BANK_IS_REQUIRED' , msg : '' , code : 1009 } ,
   "PATTERN_COUNTRY_BANK_ID_IS_WRONG" :{ section , info : 'PATTERN_COUNTRY_BANK_ID_IS_WRONG' , msg : '', code : 1010 } ,
+  "PATTERN_COUNTRY_BANK_CRYPTO_ID_IS_WRONG" :{ section , info : 'PATTERN_COUNTRY_BANK_CRYPTO_ID_IS_WRONG' , msg : '', code : 1011 } ,
 
 
 
