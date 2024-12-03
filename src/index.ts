@@ -6,6 +6,8 @@ import  {CryptoError} from "./crypto.error"
 import  {IpgError} from "./ipg.error"
 import  {BankError} from "./bank.error"
 import  {CountryError} from "./country.error"
+import  {GroupCurrencyError} from "./group-currency.error"
+
 
 export  { StructError  , ChainError,ArchError , AssetError , CryptoError ,
-  IpgError , BankError , CountryError }
+  IpgError , BankError , CountryError  , GroupCurrencyError}
