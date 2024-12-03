@@ -14,8 +14,7 @@ export const  AssetError   =  {
   "LOGO_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'LOGO_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1011 } ,
   "STATUS_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1012 } ,
   "PATTERN_ASSET_ID_IS_WRONG" :{ section , info : 'PATTERN_ASSET_ID_IS_WRONG' , msg : '', code : 1013 } ,
-  "GROUP_CURRENCY_IDS_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'GROUP_CURRENCY_IDS_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1014 } ,
-
+  "GROUP_CURRENCY_IDS_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'GROUP_CURRENCY_IDS_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1014 }
 
 }
 
