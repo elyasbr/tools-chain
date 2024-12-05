@@ -12,6 +12,10 @@ export const  CountryError   =  {
   "STATUS_FIELD_COUNTRY_BANK_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_COUNTRY_BANK_IS_REQUIRED' , msg : '' , code : 1009 } ,
   "PATTERN_COUNTRY_BANK_ID_IS_WRONG" :{ section , info : 'PATTERN_COUNTRY_BANK_ID_IS_WRONG' , msg : '', code : 1010 } ,
   "PATTERN_COUNTRY_BANK_CRYPTO_ID_IS_WRONG" :{ section , info : 'PATTERN_COUNTRY_BANK_CRYPTO_ID_IS_WRONG' , msg : '', code : 1011 } ,
+  "SLUG_COUNTRY_IS_DUPLICATED" :{ section , info : 'SLUG_COUNTRY_IS_DUPLICATED' , msg : '' , code : 1009 } ,
+  "ISO2_COUNTRY_IS_DUPLICATED" :{ section , info : 'ISO2_COUNTRY_IS_DUPLICATED' , msg : '' , code : 1009 } ,
+  "ISO3_COUNTRY_IS_DUPLICATED" :{ section , info : 'ISO3_COUNTRY_IS_DUPLICATED' , msg : '' , code : 1009 }
+
 
 
 
