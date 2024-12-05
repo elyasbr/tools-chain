@@ -8,7 +8,8 @@ export const  ChainError   =  {
   "STATUS_FIELD_CHAIN_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_CHAIN_IS_REQUIRED' , msg : '' , code : 1006 } ,
   "PATTERN_CHAIN_ID_IS_WRONG" :{ section , info : 'PATTERN_CHAIN_ID_IS_WRONG' , msg : '', code : 1007 } ,
   "SCANNER_ADDRESS_FIELD_CHAIN_IS_REQUIRED" :{ section , info : 'SCANNER_ADDRESS_FIELD_CHAIN_IS_REQUIRED' , msg : '' , code : 1008 } ,
-
+  "SLUG_CHAIN_IS_DUPLICATED" :{ section , info : 'SLUG_CHAIN_IS_DUPLICATED' , msg : '' , code : 1009 } ,
+  "SYMBOL_CHAIN_IS_DUPLICATED" :{ section , info : 'SYMBOL_CHAIN_IS_DUPLICATED' , msg : '' , code : 1009 }
 
 }
 
