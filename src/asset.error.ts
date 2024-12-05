@@ -17,6 +17,8 @@ export const  AssetError   =  {
   "RATE_TRADE_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'RATE_TRADE_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1007 } ,
   "RATE_WITHDRAW_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'RATE_WITHDRAW_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1008 } ,
   "IS_STABLE_COIN_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'IS_STABLE_COIN_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1009 } ,
+  "SLUG_ASSET_IS_DUPLICATED" :{ section , info : 'SLUG_ASSET_IS_DUPLICATED' , msg : '' , code : 1008 } ,
+  "SYMBOL_ASSET_IS_DUPLICATED" :{ section , info : 'SYMBOL_ASSET_IS_DUPLICATED' , msg : '' , code : 1008 }
 
 }
 
