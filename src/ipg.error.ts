@@ -19,6 +19,8 @@ export const  IpgError   =  {
   "METHODS_LINK_BACKEND_IPG_IS_REQUIRED" :{ section , info : 'METHODS_LINK_BACKEND_IPG_IS_REQUIRED' , msg : '' , code : 1003 } ,
   "BODY_CALL_BACK_BACKEND_IPG_IS_REQUIRED" :{ section , info : 'BODY_CALL_BACK_BACKEND_IPG_IS_REQUIRED' , msg : '' , code : 1003 } ,
   "METHODS_CALL_BACK_BACKEND_IPG_IS_REQUIRED" :{ section , info : 'METHODS_CALL_BACK_BACKEND_IPG_IS_REQUIRED' , msg : '' , code : 1003 } ,
+  "LINK_BACKEND_IPG_IS_REQUIRED" :{ section , info : 'LINK_BACKEND_IPG_IS_REQUIRED' , msg : '' , code : 1002 } ,
+  "CALL_BACK_BACKEND_IPG_IS_REQUIRED" :{ section , info : 'CALL_BACK_BACKEND_IPG_IS_REQUIRED' , msg : '' , code : 1002 } ,
 
 
 }
