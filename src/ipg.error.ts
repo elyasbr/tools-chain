@@ -21,7 +21,9 @@ export const  IpgError   =  {
   "METHODS_CALL_BACK_BACKEND_IPG_IS_REQUIRED" :{ section , info : 'METHODS_CALL_BACK_BACKEND_IPG_IS_REQUIRED' , msg : '' , code : 1003 } ,
   "LINK_BACKEND_IPG_IS_REQUIRED" :{ section , info : 'LINK_BACKEND_IPG_IS_REQUIRED' , msg : '' , code : 1002 } ,
   "CALL_BACK_BACKEND_IPG_IS_REQUIRED" :{ section , info : 'CALL_BACK_BACKEND_IPG_IS_REQUIRED' , msg : '' , code : 1002 } ,
-
+  "SLUG_IPG_IS_EMPTY" :{ section , info : 'SLUG_IPG_IS_EMPTY' , msg : '' , code : 1001 } ,
+  "FRONT_LINK_IPG_IS_EMPTY" :{ section , info : 'FRONT_LINK_IPG_IS_EMPTY' , msg : '' , code : 1001 } ,
+  "FRONT_CALL_BACK_IPG_IS_EMPTY" :{ section , info : 'FRONT_CALL_BACK_IPG_IS_EMPTY' , msg : '' , code : 1001 }
 
 }
 
