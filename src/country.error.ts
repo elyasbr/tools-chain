@@ -15,10 +15,10 @@ export const  CountryError   =  {
   "SLUG_COUNTRY_IS_DUPLICATED" :{ section , info : 'SLUG_COUNTRY_IS_DUPLICATED' , msg : '' , code : 1009 } ,
   "ISO2_COUNTRY_IS_DUPLICATED" :{ section , info : 'ISO2_COUNTRY_IS_DUPLICATED' , msg : '' , code : 1009 } ,
   "ISO3_COUNTRY_IS_DUPLICATED" :{ section , info : 'ISO3_COUNTRY_IS_DUPLICATED' , msg : '' , code : 1009 } ,
-  "COUNTRY_AND_BANK_IS_DUPLICATED" :{ section , info : 'COUNTRY_AND_BANK_IS_DUPLICATED' , msg : '' , code : 1009 }
-
-
-
+  "COUNTRY_AND_BANK_IS_DUPLICATED" :{ section , info : 'COUNTRY_AND_BANK_IS_DUPLICATED' , msg : '' , code : 1009 } ,
+  "SLUG_COUNTRY_IS_EMPTY" :{ section , info : 'SLUG_COUNTRY_IS_EMPTY' , msg : '' , code : 1001 } ,
+  "ISO2_COUNTRY_IS_EMPTY" :{ section , info : 'ISO2_COUNTRY_IS_EMPTY' , msg : '' , code : 1001 } ,
+  "ISO3_COUNTRY_IS_EMPTY" :{ section , info : 'ISO3_COUNTRY_IS_EMPTY' , msg : '' , code : 1001 }
 
 }
 
