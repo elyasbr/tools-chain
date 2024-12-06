@@ -16,6 +16,7 @@ export const  IpgError   =  {
   "LINK_FRONT_IPG_IS_DUPLICATED" :{ section , info : 'LINK_FRONT_IPG_IS_DUPLICATED' , msg : '' , code : 1009 } ,
   "CALL_BACK_FRONT_IPG_IS_DUPLICATED" :{ section , info : 'CALL_BACK_FRONT_IPG_IS_DUPLICATED' , msg : '' , code : 1009 } ,
   "BODY_LINK_IPG_IS_REQUIRED" :{ section , info : 'BODY_LINK_IPG_IS_REQUIRED' , msg : '' , code : 1003 } ,
+  "METHODS_LINK_IPG_IS_REQUIRED" :{ section , info : 'METHODS_LINK_IPG_IS_REQUIRED' , msg : '' , code : 1003 } ,
 
 
 
