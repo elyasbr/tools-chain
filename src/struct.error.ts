@@ -10,7 +10,9 @@ export const  StructError   =  {
   "HTTP_SERVER_FIELD_STRUCT_IS_REQUIRED" :{ section , info : 'HTTP_SERVER_FIELD_STRUCT_IS_REQUIRED' , msg : '' , code : 1007 } ,
   "MICROSERVICE_FIELD_STRUCT_IS_REQUIRED" :{ section , info : 'MICROSERVICE_FIELD_STRUCT_IS_REQUIRED' , msg : '' , code : 1008 } ,
   "SLUG_STRUCT_IS_DUPLICATED" :{ section , info : 'SLUG_STRUCT_IS_DUPLICATED' , msg : '' , code : 1009 } ,
-  "SYMBOL_STRUCT_IS_DUPLICATED" :{ section , info : 'SYMBOL_STRUCT_IS_DUPLICATED' , msg : '' , code : 1009 }
+  "SYMBOL_STRUCT_IS_DUPLICATED" :{ section , info : 'SYMBOL_STRUCT_IS_DUPLICATED' , msg : '' , code : 1009 } ,
+  "HTTP_SERVER_STRUCT_IS_DUPLICATED" :{ section , info : 'HTTP_SERVER_STRUCT_IS_DUPLICATED' , msg : '' , code : 1009 } ,
+  "MICRO_SERVER_STRUCT_IS_DUPLICATED" :{ section , info : 'MICRO_SERVER_STRUCT_IS_DUPLICATED' , msg : '' , code : 1009 }
 
 
 
