@@ -7,6 +7,7 @@ export const  CryptoError   =  {
   "DECIMAL_BLOCK_CHAIN_FIELD_CRYPTO_IS_REQUIRED" :{ section , info : 'DECIMAL_BLOCK_CHAIN_FIELD_CRYPTO_IS_REQUIRED' , msg : '' , code : 1004 } ,
   "MIN_INVEST_CHAIN_FIELD_CRYPTO_IS_REQUIRED" :{ section , info : 'MIN_INVEST_CHAIN_FIELD_CRYPTO_IS_REQUIRED' , msg : '' , code : 1005 } ,
   "PATTERN_CRYPTO_ID_IS_WRONG" :{ section , info : 'PATTERN_CRYPTO_ID_IS_WRONG' , msg : '', code : 1006 } ,
+  "ARCH_ASSET_FROM_CRYPTO_IS_DUPLICATED" :{ section , info : 'ARCH_ASSET_FROM_CRYPTO_IS_DUPLICATED' , msg : '' , code : 1009 }
 
 
 
