@@ -8,9 +8,9 @@ import  {BankError} from "./bank.error"
 import  {CountryError} from "./country.error"
 import  {GroupCurrencyError} from "./group-currency.error"
 import {RewardDepositError} from "./rewatd-deposit.error"
-import {SpeedWithdraw} from "./speed-withdraw.error"
+import {SpeedWithdrawError} from "./speed-withdraw.error"
 
 
 export  { StructError  , ChainError,ArchError , AssetError , CryptoError ,
   IpgError , BankError , CountryError  , GroupCurrencyError , RewardDepositError ,
-  SpeedWithdraw}
+  SpeedWithdrawError}
