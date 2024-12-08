@@ -7,8 +7,8 @@ import  {IpgError} from "./ipg.error"
 import  {BankError} from "./bank.error"
 import  {CountryError} from "./country.error"
 import  {GroupCurrencyError} from "./group-currency.error"
-import {RewardDeposit} from "./rewatd-deposit.error"
+import {RewardDepositError} from "./rewatd-deposit.error"
 
 
 export  { StructError  , ChainError,ArchError , AssetError , CryptoError ,
-  IpgError , BankError , CountryError  , GroupCurrencyError , RewardDeposit}
+  IpgError , BankError , CountryError  , GroupCurrencyError , RewardDepositError}
