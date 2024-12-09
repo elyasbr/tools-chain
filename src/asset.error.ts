@@ -18,7 +18,8 @@ export const  AssetError   =  {
   "RATE_WITHDRAW_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'RATE_WITHDRAW_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1008 } ,
   "IS_STABLE_COIN_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'IS_STABLE_COIN_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1009 } ,
   "SLUG_ASSET_IS_DUPLICATED" :{ section , info : 'SLUG_ASSET_IS_DUPLICATED' , msg : '' , code : 1008 } ,
-  "SYMBOL_ASSET_IS_DUPLICATED" :{ section , info : 'SYMBOL_ASSET_IS_DUPLICATED' , msg : '' , code : 1008 }
+  "SYMBOL_ASSET_IS_DUPLICATED" :{ section , info : 'SYMBOL_ASSET_IS_DUPLICATED' , msg : '' , code : 1008 } ,
+  "IS_SYSTEM_FIELD_ASSET_IS_REQUIRED" :{ section , info : 'IS_SYSTEM_FIELD_ASSET_IS_REQUIRED' , msg : '' , code : 1005 }
 
 }
 
