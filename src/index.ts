@@ -10,8 +10,8 @@ import  {GroupCurrencyError} from "./group-currency.error"
 import {RewardDepositError} from "./rewatd-deposit.error"
 import {SpeedWithdrawError} from "./speed-withdraw.error"
 import {WithdrawCryptoError} from "./withdraw-crypto.error"
-
+import {FeeWithdrawError} from "./fee-withdraw.error"
 
 export  { StructError  , ChainError,ArchError , AssetError , CryptoError ,
   IpgError , BankError , CountryError  , GroupCurrencyError , RewardDepositError ,
-  SpeedWithdrawError , WithdrawCryptoError}
+  SpeedWithdrawError , WithdrawCryptoError , FeeWithdrawError}
