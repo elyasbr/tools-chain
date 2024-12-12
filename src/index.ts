@@ -11,7 +11,9 @@ import {RewardDepositError} from "./rewatd-deposit.error"
 import {SpeedWithdrawError} from "./speed-withdraw.error"
 import {WithdrawCryptoError} from "./withdraw-crypto.error"
 import {FeeWithdrawError} from "./fee-withdraw.error"
+import {EmailError} from "./email.error"
+
 
 export  { StructError  , ChainError,ArchError , AssetError , CryptoError ,
   IpgError , BankError , CountryError  , GroupCurrencyError , RewardDepositError ,
-  SpeedWithdrawError , WithdrawCryptoError , FeeWithdrawError}
+  SpeedWithdrawError , WithdrawCryptoError , FeeWithdrawError , EmailError}
