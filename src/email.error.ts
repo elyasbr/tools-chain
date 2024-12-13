@@ -6,7 +6,8 @@ export const  EmailError   =  {
   "EMAIL_NOT_FOUND" :{ section , info : 'EMAIL_NOT_FOUND' , msg : '' , code : 1001 } ,
   "EMAIL_ALREADY_REGISTERED" :{ section , info : 'EMAIL_ALREADY_REGISTERED' , msg : '' , code : 1003 } ,
   "TOKEN_FIELD_EMAIL_IS_REQUIRED" :{ section , info : 'TOKEN_FIELD_EMAIL_IS_REQUIRED' , msg : '' , code : 1003 } ,
-  "TOKEN_FIELD_EMAIL_IS_EMPTY" :{ section , info : 'TOKEN_FIELD_EMAIL_IS_EMPTY' , msg : '' , code : 1002 }
+  "TOKEN_FIELD_EMAIL_IS_EMPTY" :{ section , info : 'TOKEN_FIELD_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
+  "OTP_NOT_FOUND" :{ section , info : 'OTP_NOT_FOUND' , msg : '' , code : 1001 }
 
 }
 
