@@ -13,8 +13,10 @@ import {WithdrawCryptoError} from "./withdraw-crypto.error"
 import {FeeWithdrawError} from "./fee-withdraw.error"
 import {EmailError} from "./email.error"
 import {BackendError} from "./backend.error"
+import {AuthError} from "./auth.error"
 
 
 export  { StructError  , ChainError,ArchError , AssetError , CryptoError ,
   IpgError , BankError , CountryError  , GroupCurrencyError , RewardDepositError ,
-  SpeedWithdrawError , WithdrawCryptoError , FeeWithdrawError , EmailError ,BackendError}
+  SpeedWithdrawError , WithdrawCryptoError , FeeWithdrawError , EmailError ,BackendError ,
+  AuthError}
