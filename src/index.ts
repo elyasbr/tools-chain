@@ -17,9 +17,10 @@ import {AuthError} from "./auth.error"
 import {RoleError} from "./role.error"
 import {FrontError} from "./front.error"
 import {MenuError} from "./menu.error"
+import {SubMenuError} from "./sub-menu.error"
 
 
 export  { StructError  , ChainError,ArchError , AssetError , CryptoError ,
   IpgError , BankError , CountryError  , GroupCurrencyError , RewardDepositError ,
   SpeedWithdrawError , WithdrawCryptoError , FeeWithdrawError , EmailError ,BackendError ,
-  AuthError , RoleError,FrontError , MenuError}
+  AuthError , RoleError,FrontError , MenuError , SubMenuError}
