@@ -14,9 +14,10 @@ import {FeeWithdrawError} from "./fee-withdraw.error"
 import {EmailError} from "./email.error"
 import {BackendError} from "./backend.error"
 import {AuthError} from "./auth.error"
+import {RoleError} from "./role.error"
 
 
 export  { StructError  , ChainError,ArchError , AssetError , CryptoError ,
   IpgError , BankError , CountryError  , GroupCurrencyError , RewardDepositError ,
   SpeedWithdrawError , WithdrawCryptoError , FeeWithdrawError , EmailError ,BackendError ,
-  AuthError}
+  AuthError , RoleError}
