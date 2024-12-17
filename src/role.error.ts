@@ -1,4 +1,4 @@
-const section ='SpeedWithdraw'
+const section ='Role'
 export const  RoleError   =  {
   "ROLE_NOT_FOUND" :{ section , info : 'ROLE_NOT_FOUND' , msg : '', code : 1000 } ,
   "PATTERN_ROLE_ID_IS_WRONG" :{ section , info : 'PATTERN_ROLE_ID_IS_WRONG' , msg : '', code : 1008 } ,
