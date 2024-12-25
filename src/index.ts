@@ -20,9 +20,11 @@ import {MenuError} from "./menu.error"
 import {SubMenuError} from "./sub-menu.error"
 import {Web3Error} from "./web3.error"
 import {BucketError} from "./bucket.error"
+import {MimeTypeError} from "./mime-types.error"
 
 
 export  { StructError  , ChainError,ArchError , AssetError , CryptoError ,
   IpgError , BankError , CountryError  , GroupCurrencyError , RewardDepositError ,
   SpeedWithdrawError , WithdrawCryptoError , FeeWithdrawError , EmailError ,BackendError ,
-  AuthError , RoleError,FrontError , MenuError , SubMenuError , Web3Error , BucketError}
+  AuthError , RoleError,FrontError , MenuError , SubMenuError , Web3Error , BucketError ,
+  MimeTypeError}
