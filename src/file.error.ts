@@ -14,6 +14,7 @@ export const  FileError   =  {
   "WIDTH_FIELD_FILE_SECTION_IS_REQUIRED" :{ section , info : 'WIDTH_FIELD_FILE_SECTION_IS_REQUIRED' , msg : '' , code : 1001 } ,
   "HEIGHT_FIELD_FILE_SECTION_IS_REQUIRED" :{ section , info : 'HEIGHT_FIELD_FILE_SECTION_IS_REQUIRED' , msg : '' , code : 1001 } ,
   "MINIMUM_ITEMS_THUMBNAIL_FIELD_FILE_SECTION_IS_1" :{ section , info : 'MINIMUM_ITEMS_THUMBNAIL_FIELD_FILE_SECTION_IS_1' , msg : '' , code : 1001 } ,
+  "MINIMUM_ITEMS_MIME_TYPES_FIELD_FILE_SECTION_IS_1" :{ section , info : 'MINIMUM_ITEMS_MIME_TYPES_FIELD_FILE_SECTION_IS_1' , msg : '' , code : 1001 }
 
 
 
