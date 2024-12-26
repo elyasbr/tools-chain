@@ -2,8 +2,12 @@ const section ='File'
 export const  FileError   =  {
   "FILE_NOT_FOUND" :{ section , info : 'FILE_NOT_FOUND' , msg : '', code : 1000 } ,
   "SECTION_FIELD_FILE_SECTION_IS_REQUIRED" :{ section , info : 'SECTION_FIELD_FILE_SECTION_IS_REQUIRED' , msg : '' , code : 1001 } ,
-  "SECTION_FIELD_FILE_SECTION_IS_EMPTY" :{ section , info : 'SECTION_FIELD_FILE_SECTION_IS_EMPTY' , msg : '' , code : 1001 }
-
+  "SECTION_FIELD_FILE_SECTION_IS_EMPTY" :{ section , info : 'SECTION_FIELD_FILE_SECTION_IS_EMPTY' , msg : '' , code : 1001 } ,
+  "PATTERN_TEMP_BUCKET_ID_IS_FIELD_FILE_SECTION_IS_WRONG" :{ section , info : 'PATTERN_TEMP_BUCKET_ID_IS_FIELD_FILE_SECTION_IS_WRONG' , msg : '', code : 1008 } ,
+  "MINIMUM_CHARACHTERS_PREFIX_FIELD_FILE_SECTION_IS_3" :{ section , info : 'MINIMUM_CHARACHTERS_PREFIX_FIELD_FILE_SECTION_IS_3' , msg : '' , code : 1001 } ,
+  "MAXIMUM_CHARACHTERS_PREFIX_FIELD_FILE_SECTION_IS_3" :{ section , info : 'MAXIMUM_CHARACHTERS_PREFIX_FIELD_FILE_SECTION_IS_3' , msg : '' , code : 1001 } ,
+  "MIME_TYPES_FIELD_FILE_SECTION_IS_REQUIRED" :{ section , info : 'MIME_TYPES_FIELD_FILE_SECTION_IS_REQUIRED' , msg : '' , code : 1001 } ,
+  "THUMBNAIL_FIELD_FILE_SECTION_IS_REQUIRED" :{ section , info : 'THUMBNAIL_FIELD_FILE_SECTION_IS_REQUIRED' , msg : '' , code : 1001 }
 
 
 }
