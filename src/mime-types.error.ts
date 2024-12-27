@@ -6,6 +6,7 @@ export const  MimeTypeError   =  {
   "SLUG_FIELD_MIME_TYPES_IS_REQUIRED" :{ section , info : 'SLUG_FIELD_MIME_TYPES_IS_REQUIRED' , msg : '' , code : 1001 } ,
   "SLUG_FIELD_MIME_TYPES_IS_EMPTY" :{ section , info : 'SLUG_FIELD_MIME_TYPES_IS_EMPTY' , msg : '' , code : 1001 } ,
   "MINIMUM_CHARACHTERS_PREFIX_FIELD_MIME_TYPES_IS_3" :{ section , info : 'MINIMUM_CHARACHTERS_PREFIX_FIELD_MIME_TYPES_IS_3' , msg : '' , code : 1001 } ,
+  "EXTENSION_FIELD_MIME_TYPES_IS_REQUIRED" :{ section , info : 'EXTENSION_FIELD_MIME_TYPES_IS_REQUIRED' , msg : '' , code : 1001 }
 
 
 
