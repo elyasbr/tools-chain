@@ -15,7 +15,6 @@ export const  FileError   =  {
   "MINIMUM_ITEMS_MIME_TYPES_FIELD_FILE_SECTION_IS_1" :{ section , info : 'MINIMUM_ITEMS_MIME_TYPES_FIELD_FILE_SECTION_IS_1' , msg : '' , code : 1001 } ,
   "STATUS_FIELD_FILE_SECTION_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_FILE_SECTION_IS_REQUIRED' , msg : '' , code : 1001 } ,
   "TYPE_SECTION_FILE_SECTION_IS_REQUIRED" :{ section , info : 'TYPE_SECTION_FILE_SECTION_IS_REQUIRED' , msg : '' , code : 1001 } ,
-  "TTL_FILE_SECTION_IS_REQUIRED" :{ section , info : 'TTL_FILE_SECTION_IS_REQUIRED' , msg : '' , code : 1001 } ,
   "MAX_SIZE_UPLOAD_MIME_TYPE_IS_ABOVE_SELECTED" :{ section , info : 'MAX_SIZE_UPLOAD_MIME_TYPE_IS_ABOVE_SELECTED' , msg : '' , code : 1001 } ,
   "VERSION_FIELD_SECTION_IS_REQUIRED" :{ section , info : 'VERSION_FIELD_SECTION_IS_REQUIRED' , msg : '' , code : 1001 }
 
