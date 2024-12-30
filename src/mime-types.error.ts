@@ -10,11 +10,7 @@ export const  MimeTypeError   =  {
   "EXTENSION_FIELD_MIME_TYPES_IS_REQUIRED" :{ section , info : 'EXTENSION_FIELD_MIME_TYPES_IS_REQUIRED' , msg : '' , code : 1001 } ,
   "PREFIX_FILED_MIME_TYPES_IS_DUPLICATED" :{ section , info : 'PREFIX_FILED_MIME_TYPES_IS_DUPLICATED' , msg : '' , code : 1009 } ,
   "EXTENSION_FILED_MIME_TYPES_IS_DUPLICATED" :{ section , info : 'EXTENSION_FILED_MIME_TYPES_IS_DUPLICATED' , msg : '' , code : 1009 } ,
-  "PATTERN_MIME_TYPE_ID_IS_WRONG" :{ section , info : 'PATTERN_MIME_TYPE_ID_IS_WRONG' , msg : '', code : 1008 }
-
-
-
-
-
+  "PATTERN_MIME_TYPE_ID_IS_WRONG" :{ section , info : 'PATTERN_MIME_TYPE_ID_IS_WRONG' , msg : '', code : 1008  },
+  "TYPE_FILE_FIELD_MIME_TYPES_IS_REQUIRED" :{ section , info : 'TYPE_FILE_FIELD_MIME_TYPES_IS_REQUIRED' , msg : '' , code : 1001 }
 }
 
