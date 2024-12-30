@@ -24,10 +24,10 @@ import {MimeTypeError} from "./mime-types.error"
 import {FileError} from "./file.error"
 import {AppAccessError} from "./app-access.error"
 import {AppSectionError} from "./app-section.error"
-
+import {ComponentError} from "./component.error"
 
 export  { StructError  , ChainError,ArchError , AssetError , CryptoError ,
   IpgError , BankError , CountryError  , GroupCurrencyError , RewardDepositError ,
   SpeedWithdrawError , WithdrawCryptoError , FeeWithdrawError , EmailError ,BackendError ,
   AuthError , RoleError,FrontError , MenuError , SubMenuError , Web3Error , BucketError ,
-  MimeTypeError , FileError , AppAccessError , AppSectionError}
+  MimeTypeError , FileError , AppAccessError , AppSectionError , ComponentError}
