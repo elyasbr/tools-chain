@@ -9,7 +9,8 @@ export const  ComponentError   =  {
   "SYMBOL_FIELD_COMPONENT_IS_REQUIRED" :{ section , info : 'SYMBOL_FIELD_COMPONENT_IS_REQUIRED' , msg : '' , code : 1002 } ,
   "SYMBOL_FIELD_COMPONENT_IS_EMPTY" :{ section , info : 'SYMBOL_FIELD_COMPONENT_IS_EMPTY' , msg : '' , code : 1002 } ,
   "TYPE_FILE_FIELD_COMPONENT_IS_REQUIRED" :{ section , info : 'TYPE_FILE_FIELD_COMPONENT_IS_REQUIRED' , msg : '' , code : 1002 } ,
-  "STATUS_FIELD_COMPONENT_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_COMPONENT_IS_REQUIRED' , msg : '' , code : 1002 }
+  "STATUS_FIELD_COMPONENT_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_COMPONENT_IS_REQUIRED' , msg : '' , code : 1002 } ,
+  "SYMBOL_IS_DUPLICATED" :{ section , info : 'SYMBOL_IS_DUPLICATED' , msg : '' , code : 1009 }
 
 
 
