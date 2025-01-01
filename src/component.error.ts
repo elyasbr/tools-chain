@@ -11,7 +11,8 @@ export const  ComponentError   =  {
   "TYPE_FILE_FIELD_COMPONENT_IS_REQUIRED" :{ section , info : 'TYPE_FILE_FIELD_COMPONENT_IS_REQUIRED' , msg : '' , code : 1002 } ,
   "STATUS_FIELD_COMPONENT_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_COMPONENT_IS_REQUIRED' , msg : '' , code : 1002 } ,
   "SYMBOL_IS_DUPLICATED" :{ section , info : 'SYMBOL_IS_DUPLICATED' , msg : '' , code : 1009 } ,
-  "PATTERN_FIELD_DESTINATION_BUCKET_ID_IS_WRONG" :{ section , info : 'PATTERN_FIELD_TEMP_BUCKET_ID_IS_WRONG' , msg : '', code : 1005 }
+  "PATTERN_FIELD_DESTINATION_BUCKET_ID_IS_WRONG" :{ section , info : 'PATTERN_FIELD_TEMP_BUCKET_ID_IS_WRONG' , msg : '', code : 1005 } ,
+  "MINIMUM_ITEMS_MIME_TYPES_FIELD_COMPONENT_IS_1" :{ section , info : 'MINIMUM_ITEMS_MIME_TYPES_FIELD_COMPONENT_IS_1' , msg : '' , code : 1001 }
 
 
 
