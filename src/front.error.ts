@@ -8,7 +8,8 @@ export const  FrontError   =  {
   "ROUTE_FIELD_IS_EMPTY" :{ section , info : 'SLUG_FIELD_IS_EMPTY' , msg : '' , code : 1001 } ,
   "ROUTE_FIELD_FRONT_IS_REQUIRED" :{ section , info : 'SLUG_FIELD_FRONT_IS_REQUIRED' , msg : '' , code : 1001 } ,
   "METHOD_FIELD_IS_EMPTY" :{ section , info : 'METHOD_FIELD_IS_EMPTY' , msg : '' , code : 1001 } ,
-  "METHOD_FIELD_FRONT_IS_REQUIRED" :{ section , info : 'METHOD_FIELD_FRONT_IS_REQUIRED' , msg : '' , code : 1001 }
+  "METHOD_FIELD_FRONT_IS_REQUIRED" :{ section , info : 'METHOD_FIELD_FRONT_IS_REQUIRED' , msg : '' , code : 1001 } ,
+  "SLUG_FIELD_FRONT_IS_DUPLICATED" :{ section , info : 'SLUG_FIELD_FRONT_IS_DUPLICATED' , msg : '' , code : 1009 }
 
 
 }
