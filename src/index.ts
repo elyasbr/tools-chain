@@ -26,9 +26,11 @@ import {AppAccessError} from "./app-access.error"
 import {AppSectionError} from "./app-section.error"
 import {ComponentError} from "./component.error"
 import {DeviceError} from "./device.error"
+import {ChildError} from "./child.error"
+
 
 export  { StructError  , ChainError,ArchError , AssetError , CryptoError ,
   IpgError , BankError , CountryError  , GroupCurrencyError , RewardDepositError ,
   SpeedWithdrawError , WithdrawCryptoError , FeeWithdrawError , EmailError ,BackendError ,
   AuthError , RoleError,FrontError , MenuError , SubMenuError , Web3Error , BucketError ,
-  MimeTypeError , FileError , AppAccessError , AppSectionError , ComponentError , DeviceError}
+  MimeTypeError , FileError , AppAccessError , AppSectionError , ComponentError , DeviceError , ChildError}
