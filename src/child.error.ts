@@ -4,8 +4,7 @@ export const  ChildError   =  {
   "PATTERN_FIELD_COMPONENT_ID_IS_WRONG" :{ section , info : 'PATTERN_FIELD_COMPONENT_ID_IS_WRONG' , msg : '', code : 1005 } ,
   "TAG_FIELD_COMPONENT_IS_REQUIRED" :{ section , info : 'TAG_FIELD_COMPONENT_IS_REQUIRED' , msg : '' , code : 1002 } ,
   "TAG_FIELD_IS_EMPTY" :{ section , info : 'TAG_FIELD_IS_EMPTY' , msg : '' , code : 1001 } ,
-  "PATTERN_FIELD_CHILD_ID_IS_WRONG" :{ section , info : 'PATTERN_FIELD_CHILD_ID_IS_WRONG' , msg : '', code : 1005 } ,
-  "PATTERN_FIELD_DEVICE_ID_IS_WRONG" :{ section , info : 'PATTERN_FIELD_DEVICE_ID_IS_WRONG' , msg : '', code : 1005 }
+  "PATTERN_FIELD_CHILD_ID_IS_WRONG" :{ section , info : 'PATTERN_FIELD_CHILD_ID_IS_WRONG' , msg : '', code : 1005 }
 
 }
 
