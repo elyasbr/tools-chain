@@ -20,7 +20,9 @@ export const  FileError   =  {
   "TYPE_POLICY_AUTH_FIELD_ROLE_CDN_IS_EMPTY" :{ section , info : 'TYPE_POLICY_AUTH_FIELD_ROLE_CDN_IS_EMPTY' , msg : '' , code : 1001 } ,
   "USER_OWNER_POLICY_FIELD_ROLE_CDN_IS_REQUIRED" :{ section , info : 'USER_OWNER_POLICY_FIELD_ROLE_CDN_IS_REQUIRED' , msg : '' , code : 1001 } ,
   "STATUS_POLICY_FIELD_ROLE_CDN_IS_REQUIRED" :{ section , info : 'STATUS_POLICY_FIELD_ROLE_CDN_IS_REQUIRED' , msg : '' , code : 1001 } ,
-  "STATUS_FIELD_ROLE_CDN_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_ROLE_CDN_IS_REQUIRED' , msg : '' , code : 1001 }
+  "STATUS_FIELD_ROLE_CDN_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_ROLE_CDN_IS_REQUIRED' , msg : '' , code : 1001 } ,
+  "WRITE_FIELD_ROLE_CDN_IS_REQUIRED" :{ section , info : 'WRITE_FIELD_ROLE_CDN_IS_REQUIRED' , msg : '' , code : 1001 }  ,
+  "DELETE_FIELD_ROLE_CDN_IS_REQUIRED" :{ section , info : 'DELETE_FIELD_ROLE_CDN_IS_REQUIRED' , msg : '' , code : 1001 }
 
 }
 
