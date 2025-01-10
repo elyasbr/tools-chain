@@ -12,8 +12,15 @@ export const  FileError   =  {
   "WIDTH_FIELD_FILE_SECTION_IS_REQUIRED" :{ section , info : 'WIDTH_FIELD_FILE_SECTION_IS_REQUIRED' , msg : '' , code : 1001 } ,
   "HEIGHT_FIELD_FILE_SECTION_IS_REQUIRED" :{ section , info : 'HEIGHT_FIELD_FILE_SECTION_IS_REQUIRED' , msg : '' , code : 1001 } ,
   "STATUS_FIELD_FILE_SECTION_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_FILE_SECTION_IS_REQUIRED' , msg : '' , code : 1001 } ,
-  "MAX_SIZE_UPLOAD_MIME_TYPE_IS_ABOVE_SELECTED" :{ section , info : 'MAX_SIZE_UPLOAD_MIME_TYPE_IS_ABOVE_SELECTED' , msg : '' , code : 1001 }
-
+  "MAX_SIZE_UPLOAD_MIME_TYPE_IS_ABOVE_SELECTED" :{ section , info : 'MAX_SIZE_UPLOAD_MIME_TYPE_IS_ABOVE_SELECTED' , msg : '' , code : 1001 } ,
+  "SLUG_FIELD_ROLE_CDN_IS_REQUIRED" :{ section , info : 'SLUG_FIELD_ROLE_CDN_IS_REQUIRED' , msg : '' , code : 1001 }  ,
+  "SLUG_FIELD_ROLE_CDN_IS_EMPTY" :{ section , info : 'SLUG_FIELD_ROLE_CDN_IS_EMPTY' , msg : '' , code : 1001 }  ,
+  "READ_FIELD_ROLE_CDN_IS_REQUIRED" :{ section , info : 'READ_FIELD_ROLE_CDN_IS_REQUIRED' , msg : '' , code : 1001 }  ,
+  "TYPE_POLICY_AUTH_FIELD_ROLE_CDN_IS_REQUIRED" :{ section , info : 'TYPE_POLICY_AUTH_FIELD_ROLE_CDN_IS_REQUIRED' , msg : '' , code : 1001 }  ,
+  "TYPE_POLICY_AUTH_FIELD_ROLE_CDN_IS_EMPTY" :{ section , info : 'TYPE_POLICY_AUTH_FIELD_ROLE_CDN_IS_EMPTY' , msg : '' , code : 1001 } ,
+  "USER_OWNER_POLICY_FIELD_ROLE_CDN_IS_REQUIRED" :{ section , info : 'USER_OWNER_POLICY_FIELD_ROLE_CDN_IS_REQUIRED' , msg : '' , code : 1001 } ,
+  "STATUS_POLICY_FIELD_ROLE_CDN_IS_REQUIRED" :{ section , info : 'STATUS_POLICY_FIELD_ROLE_CDN_IS_REQUIRED' , msg : '' , code : 1001 } ,
+  "STATUS_FIELD_ROLE_CDN_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_ROLE_CDN_IS_REQUIRED' , msg : '' , code : 1001 }
 
 }
 
