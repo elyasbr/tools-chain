@@ -7,7 +7,8 @@ export const  ChildError   =  {
   "PATTERN_FIELD_CHILD_ID_IS_WRONG" :{ section , info : 'PATTERN_FIELD_CHILD_ID_IS_WRONG' , msg : '', code : 1005 } ,
   "QUALITY_FIELD_CHILD_IS_REQUIRED" :{ section , info : 'QUALITY_FIELD_CHILD_IS_REQUIRED' , msg : '' , code : 1002 } ,
   "WIDTH_FIELD_CHILD_IS_REQUIRED" :{ section , info : 'WIDTH_FIELD_CHILD_IS_REQUIRED' , msg : '' , code : 1002 }  ,
-  "HEIGHT_FIELD_CHILD_IS_REQUIRED" :{ section , info : 'HEIGHT_FIELD_CHILD_IS_REQUIRED' , msg : '' , code : 1002 }
+  "HEIGHT_FIELD_CHILD_IS_REQUIRED" :{ section , info : 'HEIGHT_FIELD_CHILD_IS_REQUIRED' , msg : '' , code : 1002 } ,
+  "THIS_CHILD_NOT_FOUND_ANY_DEVICE" :{ section , info : 'THIS_CHILD_NOT_FOUND_ANY_DEVICE' , msg : '', code : 1005 }
 
 
 
