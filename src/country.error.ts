@@ -42,7 +42,9 @@ export const  CountryError   =  {
   "STATUS_FIELD_NEIGHBORHOOD_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_NEIGHBORHOOD_IS_REQUIRED' , msg : '' , code : 1003 } ,
   "PATTERN_PROVINCE_ID_IS_WRONG" :{ section , info : 'PATTERN_PROVINCE_ID_IS_WRONG' , msg : '', code : 1010 } ,
   "PATTERN_CITY_ID_IS_WRONG" :{ section , info : 'PATTERN_CITY_ID_IS_WRONG' , msg : '', code : 1010 } ,
-  "COUNTRY_HAS_A_CHILD_PROVINCE" :{ section , info : 'COUNTRY_HAS_A_CHILD_PROVINCE' , msg : '', code : 1010 }
+  "COUNTRY_HAS_A_CHILD_PROVINCE" :{ section , info : 'COUNTRY_HAS_A_CHILD_PROVINCE' , msg : '', code : 1010 } ,
+  "PROVINCE_HAS_A_CHILD_CITY" :{ section , info : 'PROVINCE_HAS_A_CHILD_CITY' , msg : '', code : 1010 } ,
+  "CITY_HAS_A_CHILD_NEIGHBORHOOD" :{ section , info : 'CITY_HAS_A_CHILD_NEIGHBORHOOD' , msg : '', code : 1010 }
 
 
 
