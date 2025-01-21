@@ -1,6 +1,10 @@
 const section ='Country'
 export const  CountryError   =  {
   "COUNTRY_NOT_FOUND" :{ section , info : 'COUNTRY_NOT_FOUND' , msg : '', code : 1000 } ,
+  "PROVINCE_NOT_FOUND" :{ section , info : 'PROVINCE_NOT_FOUND' , msg : '', code : 1000 } ,
+  "CITY_NOT_FOUND" :{ section , info : 'CITY_NOT_FOUND' , msg : '', code : 1000 } ,
+  "NEIGHBORHOOD_NOT_FOUND" :{ section , info : 'NEIGHBORHOOD_NOT_FOUND' , msg : '', code : 1000 } ,
+
   "SLUG_FIELD_COUNTRY_IS_REQUIRED" :{ section , info : 'SLUG_FIELD_COUNTRY_IS_REQUIRED' , msg : '' , code : 1001 } ,
   "COUNTRY_BANK_NOT_FOUND" :{ section , info : 'COUNTRY_BANK_NOT_FOUND' , msg : '', code : 1005 } ,
   "COUNTRY_BANK_CRYPTO_NOT_FOUND" :{ section , info : 'COUNTRY_BANK_CRYPTO_NOT_FOUND' , msg : '', code : 1006 } ,
