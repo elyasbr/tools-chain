@@ -35,7 +35,10 @@ export const  CountryError   =  {
   "NEIGHBORHOOD_FIELD_PROVINCE_IS_DUPLICATED" :{ section , info : 'NEIGHBORHOOD_FIELD_PROVINCE_IS_DUPLICATED' , msg : '' , code : 1009 } ,
   "STATUS_FIELD_PROVINCE_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_PROVINCE_IS_REQUIRED' , msg : '' , code : 1003 } ,
   "STATUS_FIELD_CITY_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_CITY_IS_REQUIRED' , msg : '' , code : 1003 } ,
-  "STATUS_FIELD_NEIGHBORHOOD_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_NEIGHBORHOOD_IS_REQUIRED' , msg : '' , code : 1003 }
+  "STATUS_FIELD_NEIGHBORHOOD_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_NEIGHBORHOOD_IS_REQUIRED' , msg : '' , code : 1003 } ,
+  "PATTERN_PROVINCE_ID_IS_WRONG" :{ section , info : 'PATTERN_PROVINCE_ID_IS_WRONG' , msg : '', code : 1010 } ,
+  "PATTERN_CITY_ID_IS_WRONG" :{ section , info : 'PATTERN_CITY_ID_IS_WRONG' , msg : '', code : 1010 }
+
 
 
 }
