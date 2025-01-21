@@ -15,14 +15,24 @@ export const  CountryError   =  {
   "COUNTRY_AND_BANK_CRYPTO_IS_DUPLICATED" :{ section , info : 'COUNTRY_AND_BANK_CRYPTO_IS_DUPLICATED' , msg : '' , code : 1009 } ,
   "COUNTRY_AND_BANK_CRYPTO_AND_IPG_IS_DUPLICATED" :{ section , info : 'COUNTRY_AND_BANK_CRYPTO_AND_IPG_IS_DUPLICATED' , msg : '' , code : 1009 } ,
   "COUNTRY_FIELD_COUNTRY_IS_REQUIRED" :{ section , info : 'COUNTRY_FIELD_COUNTRY_IS_REQUIRED' , msg : '' , code : 1001 } ,
-  "COUNTRY_FIELD_COUNTRY_IS_Empty" :{ section , info : 'COUNTRY_FIELD_COUNTRY_IS_Empty' , msg : '' , code : 1001 } ,
+  "COUNTRY_FIELD_COUNTRY_IS_EMPTY" :{ section , info : 'COUNTRY_FIELD_COUNTRY_IS_Empty' , msg : '' , code : 1001 } ,
+  "COUNTRY_FIELD_COUNTRY_IS_DUPLICATED" :{ section , info : 'COUNTRY_FIELD_COUNTRY_IS_DUPLICATED' , msg : '' , code : 1009 } ,
   "ISO2_FIELD_COUNTRY_IS_REQUIRED" :{ section , info : 'ISO2_FIELD_COUNTRY_IS_REQUIRED' , msg : '' , code : 1002 } ,
   "ISO2_COUNTRY_IS_EMPTY" :{ section , info : 'ISO2_COUNTRY_IS_EMPTY' , msg : '' , code : 1001 } ,
   "ISO2_COUNTRY_IS_DUPLICATED" :{ section , info : 'ISO2_COUNTRY_IS_DUPLICATED' , msg : '' , code : 1009 } ,
   "ISO3_FIELD_COUNTRY_IS_REQUIRED" :{ section , info : 'ISO3_FIELD_COUNTRY_IS_REQUIRED' , msg : '' , code : 1003 } ,
   "ISO3_COUNTRY_IS_EMPTY" :{ section , info : 'ISO3_COUNTRY_IS_EMPTY' , msg : '' , code : 1001 } ,
   "ISO3_COUNTRY_IS_DUPLICATED" :{ section , info : 'ISO3_COUNTRY_IS_DUPLICATED' , msg : '' , code : 1009 } ,
-  "STATUS_FIELD_COUNTRY_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_COUNTRY_IS_REQUIRED' , msg : '' , code : 1003 }
+  "STATUS_FIELD_COUNTRY_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_COUNTRY_IS_REQUIRED' , msg : '' , code : 1003 } ,
+  "PROVINCE_FIELD_PROVINCE_IS_REQUIRED" :{ section , info : 'PROVINCE_FIELD_PROVINCE_IS_REQUIRED' , msg : '' , code : 1001 } ,
+  "PROVINCE_FIELD_PROVINCE_IS_EMPTY" :{ section , info : 'PROVINCE_FIELD_PROVINCE_IS_EMPTY' , msg : '' , code : 1001 } ,
+  "PROVINCE_FIELD_PROVINCE_IS_DUPLICATED" :{ section , info : 'PROVINCE_FIELD_PROVINCE_IS_DUPLICATED' , msg : '' , code : 1009 } ,
+  "CITY_FIELD_CITY_IS_REQUIRED" :{ section , info : 'CITY_FIELD_CITY_IS_REQUIRED' , msg : '' , code : 1001 } ,
+  "CITY_FIELD_CITY_IS_EMPTY" :{ section , info : 'CITY_FIELD_CITY_IS_EMPTY' , msg : '' , code : 1001 } ,
+  "CITY_FIELD_CITY_IS_DUPLICATED" :{ section , info : 'CITY_FIELD_CITY_IS_DUPLICATED' , msg : '' , code : 1009 } ,
+  "NEIGHBORHOOD_FIELD_NEIGHBORHOOD_IS_REQUIRED" :{ section , info : 'NEIGHBORHOOD_FIELD_NEIGHBORHOOD_IS_REQUIRED' , msg : '' , code : 1001 } ,
+  "NEIGHBORHOOD_FIELD_NEIGHBORHOOD_IS_EMPTY" :{ section , info : 'NEIGHBORHOOD_FIELD_NEIGHBORHOOD_IS_EMPTY' , msg : '' , code : 1001 } ,
+  "NEIGHBORHOOD_FIELD_PROVINCE_IS_DUPLICATED" :{ section , info : 'NEIGHBORHOOD_FIELD_PROVINCE_IS_DUPLICATED' , msg : '' , code : 1009 }
 
 }
 
