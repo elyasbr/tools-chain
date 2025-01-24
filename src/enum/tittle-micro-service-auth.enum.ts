@@ -9,7 +9,7 @@ export enum TittleMicroServiceAuthEnum {
   PAGINATION_ROLES_FROM_USER = "pagination_roles_from_user"  ,
   DELETE_ROLE_FROM_USER = "delete_role_from_user" ,
   PAGINATION_USER_TEMP = "pagination_user_temp" ,
-  CHECK_EXISTS_USER = "check_exists_user"
-
+  CHECK_EXISTS_USER = "check_exists_user" ,
+  GET_USER_EMAIL_BY_USER_ID = "get_user_email_by_user_id"
 
 }
