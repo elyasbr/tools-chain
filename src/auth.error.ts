@@ -15,7 +15,8 @@ export const  AuthError   =  {
   "FIRST_NAME_FIELD_USER_PROFILE_REQUIRED" :{ section , info : 'FIRST_NAME_FIELD_USER_PROFILE_REQUIRED' , msg : '' , code : 1002 } ,
   "FIRST_NAME_FIELD_USER_PROFILE_EMPTY" :{ section , info : 'FIRST_NAME_FIELD_USER_PROFILE_EMPTY' , msg : '' , code : 1002 } ,
   "LAST_NAME_FIELD_USER_PROFILE_REQUIRED" :{ section , info : 'LAST_NAME_FIELD_USER_PROFILE_REQUIRED' , msg : '' , code : 1002 } ,
-  "LAST_NAME_FIELD_USER_PROFILE_EMPTY" :{ section , info : 'LAST_NAME_FIELD_USER_PROFILE_EMPTY' , msg : '' , code : 1002 }
-
+  "LAST_NAME_FIELD_USER_PROFILE_EMPTY" :{ section , info : 'LAST_NAME_FIELD_USER_PROFILE_EMPTY' , msg : '' , code : 1002 } ,
+  "PHOTO_FIELD_USER_PROFILE_REQUIRED" :{ section , info : 'PHOTO_FIELD_USER_PROFILE_REQUIRED' , msg : '' , code : 1002 } ,
+  "PHOTO_FIELD_USER_PROFILE_EMPTY" :{ section , info : 'PHOTO_FIELD_USER_PROFILE_EMPTY' , msg : '' , code : 1002 }
 }
 
