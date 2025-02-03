@@ -8,11 +8,14 @@ export const  AuthError   =  {
   "WALLET_ADDRESS_IS_DUPLICATED" :{ section , info : 'WALLET_ADDRESS_IS_DUPLICATED' , msg : '' , code : 1008 } ,
   "PAYLOAD_FIELD_AUTH_IS_REQUIRED" :{ section , info : 'PAYLOAD_FIELD_AUTH_IS_REQUIRED' , msg : '' , code : 1002 } ,
   "PIN_CODE_FIELD_AUTH_IS_REQUIRED" :{ section , info : 'PIN_CODE_FIELD_AUTH_IS_REQUIRED' , msg : '' , code : 1002 } ,
-  "PIN_CODE_FIELD_IS_EMPTY" :{ section , info : 'PIN_CODE_FIELD_IS_EMPTY' , msg : '' , code : 1001 }
-
-
-
-
+  "PIN_CODE_FIELD_IS_EMPTY" :{ section , info : 'PIN_CODE_FIELD_IS_EMPTY' , msg : '' , code : 1001 } ,
+  "PATTERN_COUNTRY_ID_IS_WRONG" :{ section , info : 'PATTERN_COUNTRY_ID_IS_WRONG' , msg : '', code : 1005 } ,
+  "PATTERN_PROVINCE_ID_IS_WRONG" :{ section , info : 'PATTERN_PROVINCE_ID_IS_WRONG' , msg : '', code : 1005 } ,
+  "PATTERN_CITY_ID_IS_WRONG" :{ section , info : 'PATTERN_CITY_ID_IS_WRONG' , msg : '', code : 1005 } ,
+  "FIRST_NAME_FIELD_USER_PROFILE_REQUIRED" :{ section , info : 'FIRST_NAME_FIELD_USER_PROFILE_REQUIRED' , msg : '' , code : 1002 } ,
+  "FIRST_NAME_FIELD_USER_PROFILE_EMPTY" :{ section , info : 'FIRST_NAME_FIELD_USER_PROFILE_EMPTY' , msg : '' , code : 1002 } ,
+  "LAST_NAME_FIELD_USER_PROFILE_REQUIRED" :{ section , info : 'LAST_NAME_FIELD_USER_PROFILE_REQUIRED' , msg : '' , code : 1002 } ,
+  "LAST_NAME_FIELD_USER_PROFILE_EMPTY" :{ section , info : 'LAST_NAME_FIELD_USER_PROFILE_EMPTY' , msg : '' , code : 1002 }
 
 }
 
