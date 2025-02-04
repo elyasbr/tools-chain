@@ -20,7 +20,9 @@ export const  AuthError   =  {
   "PHOTO_KYC_FIELD_USER_PROFILE_EMPTY" :{ section , info : 'PHOTO_KYC_FIELD_USER_PROFILE_EMPTY' , msg : '' , code : 1002 } ,
   "GENDER_FIELD_USER_PROFILE_REQUIRED" :{ section , info : 'GENDER_FIELD_USER_PROFILE_REQUIRED' , msg : '' , code : 1002 } ,
   "GENDER_FIELD_USER_PROFILE_EMPTY" :{ section , info : 'GENDER_FIELD_USER_PROFILE_EMPTY' , msg : '' , code : 1002 } ,
-  "BIRTH_DATE_FIELD_USER_PROFILE_REQUIRED" :{ section , info : 'BIRTH_DATE_FIELD_USER_PROFILE_REQUIRED' , msg : '' , code : 1002 }
+  "BIRTH_DATE_FIELD_USER_PROFILE_REQUIRED" :{ section , info : 'BIRTH_DATE_FIELD_USER_PROFILE_REQUIRED' , msg : '' , code : 1002 } ,
+  "TYPE_KYC_FIELD_USER_PROFILE_REQUIRED" :{ section , info : 'TYPE_KYC_FIELD_USER_PROFILE_REQUIRED' , msg : '' , code : 1002 } ,
+  "TYPE_KYC_FIELD_USER_PROFILE_EMPTY" :{ section , info : 'TYPE_KYC_FIELD_USER_PROFILE_EMPTY' , msg : '' , code : 1002 }
 
 }
 
