@@ -14,7 +14,14 @@ export const  EmailError   =  {
   "OTP_CODE_FIELD_EMAIL_IS_REQUIRED" :{ section , info : 'OTP_CODE_FIELD_EMAIL_IS_REQUIRED' , msg : '' , code : 1003 } ,
   "OTP_TOKEN_FIELD_EMAIL_IS_REQUIRED" :{ section , info : 'OTP_TOKEN_FIELD_EMAIL_IS_REQUIRED' , msg : '' , code : 1003 } ,
   "OTP_CODE_FIELD_EMAIL_IS_EMPTY" :{ section , info : 'OTP_CODE_FIELD_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
-  "OTP_TOKEN_FIELD_EMAIL_IS_EMPTY" :{ section , info : 'OTP_TOKEN_FIELD_EMAIL_IS_EMPTY' , msg : '' , code : 1002 }
+  "OTP_TOKEN_FIELD_EMAIL_IS_EMPTY" :{ section , info : 'OTP_TOKEN_FIELD_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
+  "SLUG_FIELD_TEMPLATE_EMAIL_IS_REQUIRED" :{ section , info : 'SLUG_FIELD_TEMPLATE_EMAIL_IS_REQUIRED' , msg : '' , code : 1002 } ,
+  "SLUG_FIELD_TEMPLATE_EMAIL_IS_EMPTY" :{ section , info : 'SLUG_FIELD_TEMPLATE_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
+  "CONTENT_FIELD_TEMPLATE_EMAIL_IS_REQUIRED" :{ section , info : 'CONTENT_FIELD_TEMPLATE_EMAIL_IS_REQUIRED' , msg : '' , code : 1002 } ,
+  "CONTENT_FIELD_TEMPLATE_EMAIL_IS_EMPTY" :{ section , info : 'CONTENT_FIELD_TEMPLATE_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
+  "TYPE_EMAIL_FIELD_TEMPLATE_EMAIL_IS_REQUIRED" :{ section , info : 'TYPE_EMAIL_FIELD_TEMPLATE_EMAIL_IS_REQUIRED' , msg : '' , code : 1002 } ,
+  "TYPE_EMAIL_FIELD_TEMPLATE_EMAIL_IS_EMPTY" :{ section , info : 'TYPE_EMAIL_FIELD_TEMPLATE_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
+  "STATUS_FIELD_TEMPLATE_EMAIL_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_TEMPLATE_EMAIL_IS_REQUIRED' , msg : '' , code : 1002 }
 
 }
 
