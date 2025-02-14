@@ -10,6 +10,8 @@ export enum TittleMicroServiceAuthEnum {
   DELETE_ROLE_FROM_USER = "delete_role_from_user" ,
   PAGINATION_USER_TEMP = "pagination_user_temp" ,
   CHECK_EXISTS_USER = "check_exists_user" ,
-  GET_USER_EMAIL_BY_USER_ID = "get_user_email_by_user_id"
+  GET_USER_EMAIL_BY_USER_ID = "get_user_email_by_user_id" ,
+  CREATE_PROVIDER_FOR_SECTION = "CREATE_PROVIDER_FOR_SECTION"
+
 
 }
