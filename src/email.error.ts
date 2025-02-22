@@ -19,8 +19,6 @@ export const  EmailError   =  {
   "SLUG_FIELD_TEMPLATE_EMAIL_IS_EMPTY" :{ section , info : 'SLUG_FIELD_TEMPLATE_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
   "CONTENT_FIELD_TEMPLATE_EMAIL_IS_REQUIRED" :{ section , info : 'CONTENT_FIELD_TEMPLATE_EMAIL_IS_REQUIRED' , msg : '' , code : 1002 } ,
   "CONTENT_FIELD_TEMPLATE_EMAIL_IS_EMPTY" :{ section , info : 'CONTENT_FIELD_TEMPLATE_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
-  "TYPE_EMAIL_FIELD_TEMPLATE_EMAIL_IS_REQUIRED" :{ section , info : 'TYPE_EMAIL_FIELD_TEMPLATE_EMAIL_IS_REQUIRED' , msg : '' , code : 1002 } ,
-  "TYPE_EMAIL_FIELD_TEMPLATE_EMAIL_IS_EMPTY" :{ section , info : 'TYPE_EMAIL_FIELD_TEMPLATE_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
   "STATUS_FIELD_TEMPLATE_EMAIL_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_TEMPLATE_EMAIL_IS_REQUIRED' , msg : '' , code : 1002 } ,
   "TEMPLATE_EMAIL_NOT_FOUND" :{ section , info : 'TEMPLATE_EMAIL_NOT_FOUND' , msg : '' , code : 1001 } ,
   "EMAIL_FIELD_PROVIDER_EMAIL_IS_REQUIRED" :{ section , info : 'EMAIL_FIELD_PROVIDER_EMAIL_IS_REQUIRED' , msg : '', code : 1013 } ,
