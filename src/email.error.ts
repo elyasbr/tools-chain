@@ -41,7 +41,9 @@ export const  EmailError   =  {
   "BASE_FILE_FIELD_TEMPLATE_IS_EMPTY" :{ section , info : 'BASE_FILE_FIELD_TEMPLATE_IS_EMPTY' , msg : '', code : 1013 } ,
   "FIELDS_FIELD_TEMPLATE_IS_REQUIRED" :{ section , info : 'FIELDS_FIELD_TEMPLATE_IS_REQUIRED' , msg : '', code : 1013 } ,
   "TYPE_TEMPLATE_FIELD_FIELDS_TEMPLATE_IS_REQUIRED" :{ section , info : 'TYPE_TEMPLATE_FIELD_FIELDS_TEMPLATE_IS_REQUIRED' , msg : '', code : 1013 } ,
-  "TYPE_TEMPLATE_FIELD_FIELDS_TEMPLATE_IS_EMPTY" :{ section , info : 'TYPE_TEMPLATE_FIELD_FIELDS_TEMPLATE_IS_EMPTY' , msg : '', code : 1013 }
+  "TYPE_TEMPLATE_FIELD_FIELDS_TEMPLATE_IS_EMPTY" :{ section , info : 'TYPE_TEMPLATE_FIELD_FIELDS_TEMPLATE_IS_EMPTY' , msg : '', code : 1013 } ,
+  "TYPE_Email_FIELD_TEMPLATE_IS_REQUIRED" :{ section , info : 'TYPE_Email_FIELD_TEMPLATE_IS_REQUIRED' , msg : '', code : 1013 } ,
+  "TYPE_Email_FIELD_TEMPLATE_IS_EMPTY" :{ section , info : 'TYPE_Email_FIELD_TEMPLATE_IS_EMPTY' , msg : '', code : 1013 }
 
 }
 
