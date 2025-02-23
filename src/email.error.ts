@@ -15,11 +15,11 @@ export const  EmailError   =  {
   "OTP_TOKEN_FIELD_EMAIL_IS_REQUIRED" :{ section , info : 'OTP_TOKEN_FIELD_EMAIL_IS_REQUIRED' , msg : '' , code : 1003 } ,
   "OTP_CODE_FIELD_EMAIL_IS_EMPTY" :{ section , info : 'OTP_CODE_FIELD_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
   "OTP_TOKEN_FIELD_EMAIL_IS_EMPTY" :{ section , info : 'OTP_TOKEN_FIELD_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
-  "SLUG_FIELD_TEMPLATE_EMAIL_IS_REQUIRED" :{ section , info : 'SLUG_FIELD_TEMPLATE_EMAIL_IS_REQUIRED' , msg : '' , code : 1002 } ,
-  "SLUG_FIELD_TEMPLATE_EMAIL_IS_EMPTY" :{ section , info : 'SLUG_FIELD_TEMPLATE_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
-  "CONTENT_FIELD_TEMPLATE_EMAIL_IS_REQUIRED" :{ section , info : 'CONTENT_FIELD_TEMPLATE_EMAIL_IS_REQUIRED' , msg : '' , code : 1002 } ,
-  "CONTENT_FIELD_TEMPLATE_EMAIL_IS_EMPTY" :{ section , info : 'CONTENT_FIELD_TEMPLATE_EMAIL_IS_EMPTY' , msg : '' , code : 1002 } ,
-  "STATUS_FIELD_TEMPLATE_EMAIL_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_TEMPLATE_EMAIL_IS_REQUIRED' , msg : '' , code : 1002 } ,
+  "SLUG_FIELD_TEMPLATE_IS_REQUIRED" :{ section , info : 'SLUG_FIELD_TEMPLATE_IS_REQUIRED' , msg : '' , code : 1002 } ,
+  "SLUG_FIELD_TEMPLATE_IS_EMPTY" :{ section , info : 'SLUG_FIELD_TEMPLATE_IS_EMPTY' , msg : '' , code : 1002 } ,
+  "CONTENT_FIELD_TEMPLATE_IS_REQUIRED" :{ section , info : 'CONTENT_FIELD_TEMPLATE_IS_REQUIRED' , msg : '' , code : 1002 } ,
+  "CONTENT_FIELD_TEMPLATE_IS_EMPTY" :{ section , info : 'CONTENT_FIELD_TEMPLATE_IS_EMPTY' , msg : '' , code : 1002 } ,
+  "STATUS_FIELD_TEMPLATE_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_TEMPLATE_IS_REQUIRED' , msg : '' , code : 1002 } ,
   "TEMPLATE_EMAIL_NOT_FOUND" :{ section , info : 'TEMPLATE_EMAIL_NOT_FOUND' , msg : '' , code : 1001 } ,
   "EMAIL_FIELD_PROVIDER_EMAIL_IS_REQUIRED" :{ section , info : 'EMAIL_FIELD_PROVIDER_EMAIL_IS_REQUIRED' , msg : '', code : 1013 } ,
   "SLUG_FIELD_PROVIDER_EMAIL_IS_REQUIRED" :{ section , info : 'SLUG_FIELD_PROVIDER_EMAIL_IS_REQUIRED' , msg : '', code : 1013 } ,
@@ -33,6 +33,11 @@ export const  EmailError   =  {
   "MAX_SEND_DAY_TOKEN_FIELD_PROVIDER_EMAIL_IS_REQUIRED" :{ section , info : 'MAX_SEND_DAY_TOKEN_FIELD_PROVIDER_EMAIL_IS_REQUIRED' , msg : '', code : 1013 } ,
   "STATUS_FIELD_PROVIDER_EMAIL_IS_REQUIRED" :{ section , info : 'STATUS_FIELD_PROVIDER_EMAIL_IS_REQUIRED' , msg : '', code : 1013 } ,
   "PROVIDER_EMAIL_NOT_FOUND" :{ section , info : 'PROVIDER_EMAIL_NOT_FOUND' , msg : '', code : 1000 }  ,
-
+  "KEY_FIELD_TEMPLATE_IS_REQUIRED" :{ section , info : 'KEY_FIELD_TEMPLATE_IS_REQUIRED' , msg : '', code : 1013 } ,
+  "KEY_FIELD_TEMPLATE_IS_EMPTY" :{ section , info : 'KEY_FIELD_TEMPLATE_IS_EMPTY' , msg : '', code : 1013 } ,
+  "TYPE_OPERATION_FIELD_TEMPLATE_IS_REQUIRED" :{ section , info : 'TYPE_OPERATION_FIELD_TEMPLATE_IS_REQUIRED' , msg : '', code : 1013 } ,
+  "TYPE_OPERATION_FIELD_TEMPLATE_IS_EMPTY" :{ section , info : 'TYPE_OPERATION_FIELD_TEMPLATE_IS_EMPTY' , msg : '', code : 1013 } ,
+  "BASE_FILE_FIELD_TEMPLATE_IS_REQUIRED" :{ section , info : 'BASE_FILE_FIELD_TEMPLATE_IS_REQUIRED' , msg : '', code : 1013 } ,
+  "BASE_FILE_FIELD_TEMPLATE_IS_EMPTY" :{ section , info : 'BASE_FILE_FIELD_TEMPLATE_IS_EMPTY' , msg : '', code : 1013 }
 }
 
