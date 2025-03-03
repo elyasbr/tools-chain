@@ -24,6 +24,9 @@ export const  AuthError   =  {
   "TYPE_KYC_FIELD_USER_PROFILE_REQUIRED" :{ section , info : 'TYPE_KYC_FIELD_USER_PROFILE_REQUIRED' , msg : '' , code : 1002 } ,
   "TYPE_KYC_FIELD_USER_PROFILE_EMPTY" :{ section , info : 'TYPE_KYC_FIELD_USER_PROFILE_EMPTY' , msg : '' , code : 1002 } ,
   "PROVIDER_NOT_FOUND" :{ section , info : 'PROVIDER_NOT_FOUND' ,msg : '', code : 1000 } ,
+  "PASSWORD_FIELD_USER_PROFILE_REQUIRED" :{ section , info : 'PASSWORD_FIELD_USER_PROFILE_REQUIRED' , msg : '' , code : 1002 } ,
+  "CONFIRM_PASSWORD_FIELD_USER_PROFILE_REQUIRED" :{ section , info : 'CONFIRM_PASSWORD_FIELD_USER_PROFILE_REQUIRED' , msg : '' , code : 1002 }
+
 
 }
 
